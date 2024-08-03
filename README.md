@@ -13,7 +13,7 @@ Réplica de la tool "V1per Selftbot Raid", versión free, de la "Comunidad defen
   - Una vez instalado los módulos necesarios, ejecuta "V1per-Selfbot-Replica.exe", que se encuentra en "V1per-Selfbot-Replica/bin/Debug" para iniciar la tool.
 
 <div align="center">
-  <img  src="">
+  <img  src="https://i.ibb.co/ZL1Mv3b/equisde2.png">
 </div>
 
 - Dónde puedo conseguir **ayuda** ?
