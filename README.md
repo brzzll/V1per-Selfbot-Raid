@@ -3,7 +3,8 @@
 </div>
 
 # V1per-Selfbot-Raid
-Réplica de la tool "V1per Selftbot Raid", versión free, de la "Comunidad defensora de gente LGBT" (Antiplague/4p) hecho en Javascript y CSharp Winform.\n
+Réplica de la tool "V1per Selftbot Raid", versión free, de la "Comunidad defensora de gente LGBT" (Antiplague/4p) hecho en Javascript y CSharp Winform.
+
 Solo es necesario los archivos que están en "V1per-Selfbot-Replica/bin/Debug" para poder correr el Selfbot-Raid.
 
 - Requerimientos:
