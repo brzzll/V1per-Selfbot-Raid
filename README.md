@@ -11,6 +11,9 @@ Réplica de la tool "V1per Selftbot Raid", versión free, de la "Comunidad defen
 - Instalación:
   - Luego de haber instalado NodeJS entra en la carpeta "motor-node", que se encuentra en "V1per-Selfbot-Replica/bin/Debug", y ejecutas el archivo "install_modules.bat" para instalar los módulos necesarios.
   - Una vez instalado los módulos necesarios, ejecuta "V1per-Selfbot-Replica.exe", que se encuentra en "V1per-Selfbot-Replica/bin/Debug" para iniciar la tool.
+<div align="center">
+  <img  src="">
+</div>
 - Dónde puedo conseguir **ayuda** ?
   - En el servidor de **Z**en**X** ( **https://discord.gg/zCQ8jQ2GBf** o **https://dsc.gg/zenxcorpp** )
 - Video de presentación: https://www.youtube.com/watch?v=4TUtp9ERTlE
