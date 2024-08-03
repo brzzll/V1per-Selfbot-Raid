@@ -1,5 +1,5 @@
 <div align="center">
-  <img  src="https://i.ibb.co/F7FYpCK/Screenshot-2024-07-28-204839.png">
+  <img  src="">
 </div>
 
 # V1per-Selfbot-Raid
